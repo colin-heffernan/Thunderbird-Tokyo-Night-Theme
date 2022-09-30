@@ -1,0 +1,60 @@
+{
+	"name": "Tokyo Night",
+	"author": "ObsidianChickenz",
+	"manifest_version": 2,
+	"version": "1.0.1",
+	"applications": {
+		"gecko": {
+			"id": "{a1377b45-90f3-4570-a869-21554f7ddc9c}"
+		}
+	},
+	"theme": {
+		"colors": {
+			"bookmark_text": "#c0caf5",
+
+			"button_background_active": "#c0caf520",
+			"button_background_hover": "#c0caf510",
+
+			"icons": "#c0caf5",
+			"icons_attention": "#c0caf5",
+
+			"frame": "#16161e",
+			"frame_inactive": "#16161e",
+
+			"ntp_background": "#1a1b26",
+			"ntp_text": "#c0caf5",
+
+			"popup": "#1a1b26",
+			"popup_border": "#000000ff",
+			"popup_highlight": "#7aa2f7",
+			"popup_highlight_text": "#1a1b26",
+			"popup_text": "#c0caf5",
+
+			"sidebar": "#1a1b26",
+			"sidebar_border": "#00000000",
+			"sidebar_highlight": "#7aa2f7",
+			"sidebar_highlight_text": "#1a1b26",
+			"sidebar_text": "#c0caf5",
+			
+			"tab_background_text": "#c0caf5",
+			"tab_line": "#7aa2f7",
+			"tab_loading": "#c0caf5",
+			"tab_selected": "#1a1b26",
+			"tab_text": "#c0caf5",
+
+			"toolbar": "#1a1b26",
+			"toolbar_bottom_separator": "#7aa2f7",
+			"toolbar_field": "#16161e",
+			"toolbar_field_border": "#00000000",
+			"toolbar_field_border_focus": "#00000000",
+			"toolbar_field_focus": "#16161e",
+			"toolbar_field_highlight": "#7aa2f7",
+			"toolbar_field_highlight_text": "#1a1b26",
+			"toolbar_field_text": "#c0caf5",
+			"toolbar_field_text_focus": "#c0caf5",
+			"toolbar_text": "#c0caf5",
+			"toolbar_top_separator": "#7aa2f7",
+			"toolbar_vertical_separator": "#00000000"
+		}
+	}
+}
